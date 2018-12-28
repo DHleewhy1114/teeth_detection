@@ -1,3 +1,3 @@
-![alt text](./teeth_detect_example.PNG)
+![alt text](teeth_detect_example.PNG)
 
-with mask_rcnn classify teeth number
+classify teeth number with mask_rcnn(https://github.com/matterport/Mask_RCNN)
